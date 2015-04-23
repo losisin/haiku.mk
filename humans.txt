@@ -1,0 +1,24 @@
+/* TEAM */
+
+translation: Nikola Madzirov
+selection: Aleksandar Madzarovski	@Urban_Mystic_
+
+/* DEVELOPMENT */
+
+Aleksandar Stojanov
+URL: http://www.losisin.com
+twitter: @Losisin
+
+/* THANKS */
+
+Pixel77
+URL: http://www.pixel77.com
+DryIcons
+URL: http://dryicons.com
+
+/* SITE */
+
+standards: HTML, CSS3
+software: Gedit, Gimp, FileZilla
+components: jQuery
+language: Macedonian (mk-MK)
